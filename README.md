@@ -1,5 +1,5 @@
 # Todo List Generator ReadMe
-============================
+======
 
 ##Pre-Requisites
 -----------------
@@ -19,4 +19,4 @@ type npm run
 * Creating Todos
 * Marking Todos as Completed
 * UnMarking Todos
-*Deleting Todos
+* Deleting Todos
