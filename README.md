@@ -1,11 +1,12 @@
-# Todo List Generator ReadMe
-==
+Todo List Generator ReadMe
+=========================
 
-##Pre-Requisites
+Pre-Requisites
 -----------------
+
  * Node installed on your OS
 
-##Installation Guide
+Installation Guide
 --------------------
 
 Clone the repository to your desktop.
@@ -14,8 +15,9 @@ cd directory of your clone repository
 type npm install
 type npm run
 
-##Features
+Features
 ----------
+
 * Creating Todos
 * Marking Todos as Completed
 * UnMarking Todos
