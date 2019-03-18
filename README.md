@@ -1,5 +1,5 @@
 # Todo List Generator ReadMe
-======
+==
 
 ##Pre-Requisites
 -----------------
