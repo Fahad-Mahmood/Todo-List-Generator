@@ -9,11 +9,11 @@ Pre-Requisites
 Installation Guide
 --------------------
 
-Clone the repository to your desktop.
-Open Command Prompt.
-cd directory of your clone repository
-type npm install
-type npm run
+* Clone the repository to your desktop.
+* Open Command Prompt.
+* cd directory of your clone repository
+* type npm install
+* type npm run
 
 Features
 ----------
